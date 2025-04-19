@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiyushWaradkar
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning Agentic AI
 - 📫 How to reach me https://www.linkedin.com/in/piyush-waradkar/
 
 <!---
